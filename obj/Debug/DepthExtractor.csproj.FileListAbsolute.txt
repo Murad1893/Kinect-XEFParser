@@ -1,0 +1,12 @@
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\obj\Debug\DepthExtractor.csproj.AssemblyReference.cache
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\obj\Debug\DepthExtractor.csproj.CoreCompileInputs.cache
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\bin\Debug\DepthExtractor.exe.config
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\bin\Debug\DepthExtractor.exe
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\bin\Debug\DepthExtractor.pdb
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\bin\Debug\Microsoft.Kinect.dll
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\bin\Debug\Microsoft.Kinect.xml
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\obj\Debug\DepthExtractor.csproj.CopyComplete
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\obj\Debug\DepthExtractor.exe
+C:\Users\mrdco\Documents\VStudio Workspace\DepthExtractor_V1\DepthExtractor\obj\Debug\DepthExtractor.pdb
